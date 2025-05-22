@@ -1,5 +1,5 @@
 
-# Trolls Detector
+# Profile-authenticity-analyzer (Troll Detector)
 
 This app uses AI-powered image, comment, and name analysis to estimate profile authenticity.
 It analyzes profile pictures, names, and comments using custom rules to detect possible troll profiles.
