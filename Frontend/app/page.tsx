@@ -84,7 +84,7 @@ export default function Home() {
     formData.append("country", "ge"); // Default country
 
     // Send request to backend
-    const response = await fetch("http://localhost:8080/v1/analyze", {
+    const response = await fetch("http://localhost:8000/v1/analyze", {
       method: "POST",
       body: formData,
     });
