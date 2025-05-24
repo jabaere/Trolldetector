@@ -79,6 +79,7 @@ Or, if you prefer a simplified setup, just download the Docker image:
   docker pull bytebrief/trolldetector:1.0.0
 
 ```
+create .env file with `PERSPECTIVE_API_KEY`
 and run it 
 
 ```bash
